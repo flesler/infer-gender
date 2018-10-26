@@ -25,11 +25,10 @@ console.log(gender.infer('~~(Micha^el) Bolton~~')) // -> male
 
 ## Sources
 
-- [ ] https://github.com/davidemiceli/gender-detection/tree/a81669c8d03a1844588f4d2504c2cf9c042343b0/genders
-- [ ] https://github.com/trevorah/boy-girl/tree/2da54897ca378395ef1583561c033ba4ee160d6a
-- [ ] https://github.com/darul75/string-gender/blob/3c598c94448c360c7eefccbca9b31a4f42d8a6ea/src/nam_dict.txt
-- [ ] https://github.com/isaachess/gender-guess/tree/560dd8663c3702bb6ab29f1911daef22e1d7a902/names/final_names
-- [ ] https://github.com/markusz/gendr/blob/75cd89104a4bb4f3ac9d4394fb6bf9554f8e0774/data/world-census-data.json
+- [x] https://github.com/davidemiceli/gender-detection/tree/a81669c8d03a1844588f4d2504c2cf9c042343b0/genders
+- [x] https://github.com/trevorah/boy-girl/tree/2da54897ca378395ef1583561c033ba4ee160d6a
+- [x] https://github.com/isaachess/gender-guess/tree/560dd8663c3702bb6ab29f1911daef22e1d7a902/names/final_names
+- [x] https://github.com/darul75/string-gender/blob/3c598c94448c360c7eefccbca9b31a4f42d8a6ea/src/nam_dict.txt
 
 ## License
 
