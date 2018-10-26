@@ -1,0 +1,51 @@
+{
+  "extends": "airbnb-base",
+  "env": {
+    "browser": true,
+    "jquery": true,
+    "node": true
+  },
+  "rules": {
+    "indent": ["error", "tab", {"SwitchCase":1}],
+    "semi":  ["error", "never"],
+    "no-new": "off",
+    "radix": "off",
+    "consistent-return": "off",
+    "no-shadow": ["error", { "allow": ["err", "done"] }],
+    "no-param-reassign": "off",
+    "func-names": "off",
+    "no-use-before-define": "off",
+    "prefer-template": "off",
+    "import/no-extraneous-dependencies": ["error", {
+      "devDependencies": true,
+      "optionalDependencies": false
+    }],
+    "no-cond-assign": ["error", "except-parens"],
+    "no-plusplus": "off",
+    "no-continue": "off",
+    "no-unused-vars": ["error", { "argsIgnorePattern": "^_" }],
+    "no-underscore-dangle": "off",
+    "no-console": "off",
+    "guard-for-in": "off",
+    "no-tabs": "off",
+    "no-nested-ternary": "off",
+    "class-methods-use-this": "off",
+    "no-restricted-syntax": ["error","LabeledStatement","WithStatement"],
+    "newline-per-chained-call": "off",
+		"max-len": "off",
+		"global-require": "off",
+		"new-cap":"off",
+		"valid-typeof": "off",
+		"import/no-dynamic-require": "off",
+		"no-constant-condition": "off",
+		"no-await-in-loop": "off",
+		"no-loop-func": "off",
+		"prefer-destructuring": "off",
+		"object-curly-newline": "off",
+		"default-case": "off",
+		"no-case-declarations": "off",
+		"no-multi-assign": "off",
+		"no-mixed-operators": "off",
+		"camelcase": "off"
+	}
+}
