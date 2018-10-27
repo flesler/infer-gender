@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// USAGE: $ cat other-female.txt | node bin/append.js female
+// USAGE: $ cat other-female.txt | node bin/update.js female
 const fs = require('fs')
 const { extractName } = require('../index')
 
@@ -7,6 +7,7 @@ const NEW_LINE = /\r?\n/
 
 const { stdin } = process
 const gender = process.argv[2]
+const remove = process.argv[3] === '--remove'
 const filename = `data/${gender}.txt`
 
 const names = {}
@@ -20,21 +21,12 @@ stdin.on('data', (chunk) => {
 	buffer += chunk
 	const arr = buffer.split(NEW_LINE)
 	buffer = arr.pop()
-	arr.map(normalize).forEach(add)
+	arr.forEach(update)
 })
 stdin.on('end', () => {
-	add(normalize(buffer))
+	update(buffer)
 	save()
 })
-
-function normalize(name) {
-	name = extractName(name)
-	if (/[^a-z-]/.test(name)) {
-		console.error('Invalid characters found:', name)
-		name = ''
-	}
-	return name
-}
 
 function add(name) {
 	if (name) {
@@ -42,7 +34,18 @@ function add(name) {
 	}
 }
 
+function update(name) {
+	name = extractName(name)
+	if (/[^a-z-]/.test(name)) {
+		console.error('Invalid characters found:', name)
+	} else if (remove) {
+		delete names[name]
+	} else {
+		add(name)
+	}
+}
+
 function save() {
-	fs.writeFileSync(filename, Object.keys(names).join('\n'))
+	fs.writeFileSync(filename, Object.keys(names).sort().join('\n'))
 	process.exit()
 }
