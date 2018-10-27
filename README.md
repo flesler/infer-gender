@@ -30,6 +30,10 @@ console.log(gender.infer('~~(Micha^el) Bolton~~')) // -> male
 - [x] https://github.com/isaachess/gender-guess/tree/560dd8663c3702bb6ab29f1911daef22e1d7a902/names/final_names
 - [x] https://github.com/darul75/string-gender/blob/3c598c94448c360c7eefccbca9b31a4f42d8a6ea/src/nam_dict.txt
 - [x] https://gist.github.com/thoppe/e9d5ba72fcfc3089a0ca223acc6a09cd
+- [x] https://www.ranker.com/list/common-russian-language-names/reference
+- [x] https://www.ranker.com/list/common-chinese-language-names/reference
+- [x] http://masterrussian.com/aa031701a.shtml
+- [x] http://masterrussian.com/aa031001a.shtml
 
 ## License
 

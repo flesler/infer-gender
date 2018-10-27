@@ -23,7 +23,7 @@ for (const name of load(FEMALE)) {
 exports.extractName = (fullName, onlyFirst = false) => (
 	removeDiacritics(fullName)
 		.toLowerCase()
-		.replace(/[^a-z -]+/g, '')
+		.replace(/[^a-z-абвгдезиклмнопрстэюяабвгдеийклмнопрстуфхчьяё ]+/g, '')
 		.split(' ')
 		// Return the first word that matches a name
 		.find(name => name in names || onlyFirst)

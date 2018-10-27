@@ -35,10 +35,8 @@ function add(name) {
 }
 
 function update(name) {
-	name = extractName(name)
-	if (/[^a-z-]/.test(name)) {
-		console.error('Invalid characters found:', name)
-	} else if (remove) {
+	name = extractName(name, true)
+	if (remove) {
 		delete names[name]
 	} else {
 		add(name)
@@ -46,6 +44,6 @@ function update(name) {
 }
 
 function save() {
-	fs.writeFileSync(filename, Object.keys(names).sort().join('\n'))
+	fs.writeFileSync(filename, Object.keys(names).sort().join('\n') + '\n')
 	process.exit()
 }
