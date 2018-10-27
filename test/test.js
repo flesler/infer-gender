@@ -31,6 +31,14 @@ describe('Multi-word names', () => {
 	it('It should return female', () => {
 		infer('Ariana Matrix', 'female')
 	})
+
+	it('It should return male even though first word does not match', () => {
+		infer('Abcde Alfonso Wayne', 'male')
+	})
+
+	it('It should return female even though first word does not match', () => {
+		infer('Abcde Ariana Matrix', 'female')
+	})
 })
 
 describe('Names with non-latin characters', () => {

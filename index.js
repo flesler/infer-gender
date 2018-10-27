@@ -24,7 +24,9 @@ exports.extractName = fullName => (
 	removeDiacritics(fullName)
 		.toLowerCase()
 		.replace(/[^a-z -]+/g, '')
-		.split(' ')[0]
+		.split(' ')
+		// Return the first word that matches a name
+		.find(name => name in names)
 )
 
 exports.infer = fullName => (
