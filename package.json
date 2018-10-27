@@ -1,6 +1,6 @@
 {
 	"name": "infer-gender",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "Infer the gender of a name based on a large list of names, case insensitive and removes diacritics",
 	"scripts": {
 		"lint": "eslint .",
