@@ -20,15 +20,15 @@ for (const name of load(FEMALE)) {
 	names[name] = name in names ? UNISEX : FEMALE
 }
 
-exports.extractName = fullName => (
+exports.extractName = (fullName, onlyFirst = false) => (
 	removeDiacritics(fullName)
 		.toLowerCase()
 		.replace(/[^a-z -]+/g, '')
 		.split(' ')
 		// Return the first word that matches a name
-		.find(name => name in names)
+		.find(name => name in names || onlyFirst)
 )
 
-exports.infer = fullName => (
-	names[exports.extractName(fullName)] || UNKNOWN
+exports.infer = (fullName, onlyFirst = false) => (
+	names[exports.extractName(fullName, onlyFirst)] || UNKNOWN
 )
