@@ -2528,7 +2528,6 @@ baurzhan
 bautista
 bauyrzhan
 baxter
-bay
 bayard
 bayden
 baylen
@@ -3006,7 +3005,6 @@ blayne
 blayton
 blayze
 blaz
-blaze
 blazej
 blazenko
 blaziejus
@@ -3776,7 +3774,6 @@ cassius
 castiel
 caston
 castor
-cat
 cataldo
 catalin
 catalino
@@ -5762,7 +5759,6 @@ denju
 denko
 denney
 dennison
-denny
 dennys
 deno
 denorris
@@ -12880,7 +12876,6 @@ jesiah
 jesko
 jesmond
 jesper
-jess
 jessee
 jessejames
 jessen
@@ -16512,7 +16507,6 @@ lucious
 lucius
 lucjan
 lucke
-lucky
 lucretiu
 lucrezio
 lucus
@@ -17335,7 +17329,6 @@ maxence
 maxey
 maxfield
 maxim
-maxime
 maximiano
 maximiliaan
 maximilian
@@ -17509,7 +17502,6 @@ mejtan
 mekai
 mekhai
 mekhi
-mel
 melbourne
 melburn
 melchert
@@ -24987,7 +24979,6 @@ teemu
 teet
 tefik
 tei
-teigan
 teije
 teijo
 teilo
