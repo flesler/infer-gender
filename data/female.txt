@@ -1061,6 +1061,7 @@ amyiah
 amyjo
 amyra
 amzie
+an
 an-an
 an-chi
 an-de
@@ -1175,6 +1176,7 @@ andelina
 andelka
 andera
 andere
+andi
 andie
 andina
 andoche
@@ -1215,6 +1217,7 @@ aneesha
 aneeta
 aneisha
 aneke
+anel
 anela
 anele
 anelia
@@ -1289,6 +1292,7 @@ anglia
 angonita
 angret
 angyalka
+anh
 ani
 ania
 aniah
@@ -1352,6 +1356,7 @@ ankita
 ankje
 anky
 anlaug
+ann
 annabel
 annabell
 annabella
@@ -1399,6 +1404,7 @@ annastasia
 annatina
 annchen
 anndrea
+anne
 anne-ly
 anne-marie
 annebarbel
@@ -2172,6 +2178,7 @@ austra
 autum
 auxane
 auzinda
+ava
 avah
 avalee
 avalon
@@ -5696,6 +5703,7 @@ dian-sheng
 dian-wen
 dianah
 diandra
+diane
 diania
 dianka
 diann
@@ -6544,6 +6552,9 @@ elga
 elgard
 elgine
 elham
+eli
+elia
+elian
 eliana
 eliane
 elianna
@@ -6624,6 +6635,7 @@ elja
 eljona
 elka
 elke
+ella
 ellada
 ellah
 ellamae
@@ -6639,10 +6651,12 @@ ellia
 elliana
 ellianna
 ellice
+ellie
 elliette
 ellin
 ellina
 ellinor
+ellis
 ellisa
 ellise
 ellisiv
@@ -6709,6 +6723,7 @@ elsun
 elsy
 eltje
 eluned
+elva
 elvana
 elvane
 elve
@@ -6717,6 +6732,7 @@ elvera
 elvezia
 elvi
 elvia
+elvie
 elviera
 elviira
 elviire
@@ -6745,6 +6761,7 @@ elysia
 elyssa
 elysse
 elyza
+elza
 elzbieta
 elze
 elzemarijke
@@ -6817,6 +6834,7 @@ emiri
 emirjona
 emke
 emlyn
+emma
 emmah
 emmalee
 emmaleigh
@@ -7200,6 +7218,7 @@ eustatia
 eutimia
 eutrope
 eutropia
+eva
 evaleen
 evalena
 evalina
@@ -11212,6 +11231,7 @@ iuliea
 iulieana
 iustina
 iustiniana
+iva
 ivaila
 ivajla
 ivalda
@@ -11246,6 +11266,7 @@ ivone
 ivoneta
 ivonna
 ivonne
+ivy
 iwona
 ixchel
 ixone
@@ -12981,6 +13002,7 @@ kahlan
 kahlia
 kaho
 kahori
+kai
 kai-chang
 kai-cheng
 kai-chun
@@ -13254,6 +13276,7 @@ karit
 karita
 karitas
 karizma
+karla
 karlee
 karleen
 karleigh
@@ -13457,6 +13480,7 @@ kavitha
 kavya
 kawana
 kawanna
+kay
 kayana
 kayanna
 kayce
@@ -13464,6 +13488,7 @@ kayci
 kaycie
 kaydance
 kaydee
+kayla
 kaylah
 kaylani
 kaylea
@@ -15039,6 +15064,7 @@ li-zhu
 lia
 liadain
 liah
+lian
 lian-bin
 lian-cai
 lian-cheng
@@ -15750,6 +15776,7 @@ ludwiga
 ludwika
 ludwina
 ludwine
+lue
 luella
 luellen
 luetta
@@ -15825,6 +15852,7 @@ lux
 luxa
 luxandra
 luxita
+luz
 luzi
 luzia
 luzica
@@ -15841,6 +15869,7 @@ lyanne
 lyazzat
 lycke
 lyda
+lydia
 lydiane
 lydianne
 lydie
@@ -15848,6 +15877,7 @@ lyka
 lykke
 lyla
 lylah
+lyn
 lyna
 lynae
 lynann
@@ -15869,9 +15899,11 @@ lynetta
 lynette
 lynlee
 lynley
+lynn
 lynna
 lynnae
 lynnda
+lynne
 lynnea
 lynnell
 lynnetta
@@ -16791,6 +16823,7 @@ marlotte
 marlous
 marly
 marlyce
+marlyn
 marlyne
 marlynn
 marlys
@@ -16951,6 +16984,7 @@ masumah
 masumeh
 masumi
 masuyo
+mat
 matana
 matanah
 mataya
@@ -17008,6 +17042,7 @@ maximiliane
 maximilienne
 maximina
 maxine
+may
 maya
 mayah
 mayako
@@ -17468,6 +17503,7 @@ mi-sun
 mi-yong
 mi-young
 mi-yun
+mia
 miabella
 miah
 mian
@@ -18145,6 +18181,7 @@ muyesser
 muza
 muzafere
 muzeyyen
+my
 mya
 myah
 myasia
@@ -18609,6 +18646,7 @@ nedka
 nedra
 nedyalka
 needa
+neel
 neela
 neelam
 neele
@@ -18985,6 +19023,7 @@ nizhoni
 njomeza
 njomza
 nneka
+noa
 noami
 nobue
 nobuko
@@ -19032,6 +19071,7 @@ nonita
 nonka
 nonna
 noomi
+noor
 noora
 noori
 nooria
@@ -23913,6 +23953,7 @@ starlet
 starlett
 starlette
 starlyn
+starr
 stase
 stasha
 stasia
@@ -24072,6 +24113,7 @@ sudeshna
 sudha
 sudie
 sudipta
+sue
 sueann
 sueanne
 sueellen
@@ -24382,6 +24424,7 @@ tahlia
 tahmeena
 tahmina
 tahnee
+tai
 tai-an
 tai-jun
 tai-lin
@@ -26464,6 +26507,7 @@ viveca
 viveka
 vivette
 vivi
+vivian
 viviana
 viviane
 vivianna
@@ -27404,6 +27448,7 @@ zlatislava
 zlatka
 zlatuse
 zmaga
+zoe
 zoea
 zoee
 zoei

@@ -948,6 +948,7 @@ altynbek
 alun
 alush
 alv
+alva
 alvah
 alvan
 alvapillai
@@ -1185,8 +1186,10 @@ andranik
 andras
 andray
 andraz
+andre
 andreano
 andreas
+andree
 andrees
 andrei
 andreias
@@ -1199,6 +1202,7 @@ andrell
 andres
 andreu
 andreus
+andrew
 andrews
 andrey
 andrez
@@ -1225,6 +1229,7 @@ andruw
 andrzej
 andu
 anduel
+andy
 aneel
 aneesh
 aneirin
@@ -1822,6 +1827,7 @@ ashok
 ashon
 ashot
 ashraf
+ashton
 ashur
 ashutosh
 ashwani
@@ -1968,6 +1974,7 @@ atze
 aubert
 aubery
 aubin
+aubry
 auden
 audhun
 audhunn
@@ -2439,9 +2446,11 @@ barnie
 baron
 barra
 barret
+barrett
 barrington
 barris
 barron
+barry
 bart
 bartel
 barteld
@@ -2528,6 +2537,7 @@ baurzhan
 bautista
 bauyrzhan
 baxter
+bay
 bayard
 bayden
 baylen
@@ -3019,6 +3029,7 @@ blerim
 blin
 blong
 blue
+bo
 bo-an
 bo-da
 bo-feng
@@ -3053,6 +3064,7 @@ boaventura
 boaz
 bob
 boban
+bobby
 bobe
 bobie
 bobo
@@ -3335,6 +3347,7 @@ breon
 bret
 bretislav
 breton
+brett
 bretton
 brevin
 brevyn
@@ -3432,12 +3445,15 @@ bryer
 brylan
 brylen
 brylon
+bryn
 brynden
 bryngeir
 brynjar
 brynjolfur
 brynjulfur
 brynleifur
+brynley
+brynn
 bryon
 brysen
 bryson
@@ -3707,7 +3723,9 @@ carden
 carder
 cardin
 carel
+carey
 carino
+carl
 carle
 carles
 carleton
@@ -3720,6 +3738,7 @@ carlito
 carlitos
 carlo
 carlon
+carlos
 carlous
 carlson
 carlton
@@ -3749,6 +3768,7 @@ cartier
 carvel
 carver
 carvin
+cary
 cas
 case
 casen
@@ -4536,6 +4556,7 @@ claas
 cladinoro
 claes
 claiborne
+clancy
 clarance
 clariano
 clark
@@ -4862,6 +4883,7 @@ cru
 cruciano
 crue
 cruise
+cruz
 cruze
 cruzito
 crystian
@@ -4937,6 +4959,7 @@ cvitko
 cvjatko
 cvyatko
 cy
+cyd
 cylas
 cyle
 cyler
@@ -5498,6 +5521,7 @@ dayton
 dayveon
 dayvion
 dayvon
+de
 de-an
 de-bao
 de-biao
@@ -6499,6 +6523,7 @@ drequan
 dresden
 dreshawn
 drevon
+drew
 drexel
 drey
 dreyden
@@ -6514,6 +6539,7 @@ drit
 dritan
 driton
 dror
+dru
 drumi
 drummond
 druvis
@@ -6612,6 +6638,7 @@ dwijendra
 dwyane
 dyami
 dyke
+dylan
 dyland
 dylane
 dylaver
@@ -6785,6 +6812,7 @@ edvin
 edvinas
 edvins
 edwar
+edward
 edwardo
 edwards
 edwyn
@@ -7664,6 +7692,7 @@ eutropio
 evald
 evaldas
 evalds
+evan
 evander
 evandro
 evangelos
@@ -8195,6 +8224,7 @@ findlay
 finian
 finis
 finlay
+finley
 finn
 finnbar
 finnbjorn
@@ -8335,6 +8365,7 @@ foppe
 forbes
 ford
 forest
+forrest
 fortino
 fortunat
 fortunatas
@@ -11185,6 +11216,7 @@ houston
 hovannes
 hovhannes
 hovnan
+howard
 howell
 howie
 hoy
@@ -12012,6 +12044,7 @@ ivailo
 ivajlo
 ivaldo
 ivalin
+ivan
 ivanas
 ivancho
 ivanciu
@@ -12036,6 +12069,7 @@ ives
 ivin
 ivo
 ivor
+ivory
 ivzi
 iwan
 iwao
@@ -12117,8 +12151,10 @@ jachin
 jaciel
 jacint
 jacinto
+jack
 jackey
 jacksen
+jacky
 jaco
 jacobb
 jacobe
@@ -12362,6 +12398,7 @@ jamonte
 jamschid
 jamshed
 jamshid
+jan
 janaki
 janaq
 janar
@@ -12604,6 +12641,7 @@ jaxton
 jaxx
 jaxxon
 jaxyn
+jay
 jayaram
 jaycen
 jayceon
@@ -13519,6 +13557,7 @@ jiun
 jivko
 jiwan
 jj
+jo
 joab
 joachim
 joacim
@@ -13551,6 +13590,7 @@ jocob
 jodeci
 jodok
 jodokus
+joe
 joeangel
 joeanthony
 joeke
@@ -13563,6 +13603,7 @@ joeseph
 joesiah
 joesph
 joevin
+joey
 joffrey
 joga
 joginder
@@ -13737,6 +13778,7 @@ jorrik
 jorrit
 jort
 jorundur
+jory
 jos
 josafat
 josaiah
@@ -13807,6 +13849,7 @@ joung
 jouni
 jousha
 joute
+jovan
 jovani
 jovanie
 jovanni
@@ -13825,6 +13868,7 @@ jovon
 jovonte
 jowell
 joxe
+joy
 joze
 jozef
 joziah
@@ -14976,6 +15020,7 @@ kishan
 kishawn
 kisho
 kishon
+kit
 kitron
 kivanc
 kiven
@@ -15420,6 +15465,7 @@ kyeon
 kyeung
 kyjuan
 kyland
+kyle
 kylen
 kylian
 kylon
@@ -15558,6 +15604,7 @@ lamontae
 lamonte
 lamorris
 lampros
+lan
 lan-bo
 lan-di
 lan-fang
@@ -15589,6 +15636,7 @@ landis
 lando
 landolf
 landolfo
+landry
 landy
 lanfranco
 lang
@@ -15619,6 +15667,7 @@ laron
 larone
 laroy
 larrie
+larry
 lars
 larsen
 larson
@@ -15702,6 +15751,7 @@ lazer
 lazo
 lazzaro
 lc
+le
 le-fu
 le-jin
 le-jun
@@ -15746,6 +15796,7 @@ ledio
 ledion
 ledjon
 ledo
+lee
 leefhard
 leefke
 leelan
@@ -15829,6 +15880,7 @@ lenwood
 lenz
 lenzie
 lenzy
+leo
 leobardo
 leocadio
 leodis
@@ -15889,6 +15941,7 @@ lesean
 leshaun
 leshawn
 leslaw
+lesley
 lestat
 leszek
 letcho
@@ -15922,6 +15975,7 @@ levy
 lew
 lewie
 lewin
+lewis
 lex
 lexton
 leyton
@@ -16311,6 +16365,7 @@ llesh
 llewellyn
 lleyton
 lliam
+lloyd
 lluis
 lluka
 llukan
@@ -16345,6 +16400,7 @@ loic
 loick
 loig
 loik
+lois
 loisl
 loit
 loizos
@@ -16413,6 +16469,7 @@ lorne
 loron
 lorren
 lorris
+lorry
 lotar
 lotario
 lotars
@@ -16433,6 +16490,7 @@ lourens
 louw
 louwe
 louwrens
+love
 lovel
 lovell
 lovett
@@ -16445,6 +16503,7 @@ lowell
 lowery
 lowie
 lowry
+loy
 loyal
 loyd
 loyde
@@ -17369,6 +17428,7 @@ mccoy
 mcdonald
 mckade
 mckay
+mckinley
 mclean
 md
 me
@@ -19070,6 +19130,7 @@ nobuyuki
 nochum
 nodar
 nodirbek
+noe
 noeme
 noi
 nokkvi
@@ -19528,6 +19589,7 @@ osama
 osamu
 osbaldo
 osborne
+oscar
 osebrand
 oshay
 oshea
@@ -21163,6 +21225,7 @@ redolf
 redon
 redouane
 redzep
+reed
 reef
 reemhard
 reemt
@@ -21965,6 +22028,7 @@ rudolphe
 rudolpho
 rudolphus
 rudra
+rudy
 rueben
 ruedi
 ruedy
@@ -22135,6 +22199,7 @@ rye
 ryhor
 ryken
 ryker
+rylan
 ryland
 ryle
 rylen
@@ -24123,6 +24188,7 @@ stanislovas
 stanjo
 stanju
 stanko
+stanley
 stanly
 stanny
 stanoj
@@ -24748,6 +24814,7 @@ takuro
 takurou
 takuto
 takuya
+tal
 talaat
 talal
 talan
@@ -24936,6 +25003,7 @@ tayfur
 taygun
 taylan
 taylon
+taylor
 tayon
 tayquan
 taysean
@@ -25928,6 +25996,7 @@ trong
 troyce
 troyu
 trpe
+tru
 trudbert
 truett
 trui
@@ -25945,6 +26014,7 @@ tryggve
 tryggvi
 trygve
 tryone
+trystan
 trysten
 trystin
 tryston
@@ -26040,6 +26110,7 @@ twan
 twanny
 twm
 txomin
+ty
 tyan
 tyce
 tycen
@@ -26365,6 +26436,7 @@ vaithialingam
 vaithilingam
 vaja
 vakhtang
+val
 valantis
 valarmathy
 valbjorn
@@ -26450,6 +26522,7 @@ valtteri
 valtyr
 valuc
 valur
+van
 vance
 vancho
 vanco
@@ -26533,6 +26606,7 @@ vasylyj
 vath
 vatroslav
 vaughan
+vaughn
 vaxhid
 vazgen
 vazha
@@ -27183,6 +27257,7 @@ werther
 wes
 wesam
 weslee
+wesley
 weslie
 wesly
 wess
@@ -27934,6 +28009,7 @@ yovcho
 ype
 yrjo
 ysidro
+yu
 yu-chan
 yu-kun
 yuan
