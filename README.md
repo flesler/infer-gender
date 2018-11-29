@@ -34,6 +34,7 @@ console.log(gender.infer('~~(Micha^el) Bolton~~')) // -> male
 - [x] https://www.ranker.com/list/common-chinese-language-names/reference
 - [x] http://masterrussian.com/aa031701a.shtml
 - [x] http://masterrussian.com/aa031001a.shtml
+- [x] https://www.fakenamegenerator.com/order.php
 
 ## License
 
