@@ -9,7 +9,11 @@
 		"precommit": "npm run lint && npm run test"
 	},
 	"main": "./index.js",
-	"author": "Ariel Flesler <aflesler@gmail.com>",
+	"author": {
+		"name": "Ariel Flesler",
+		"email": "aflesler@gmail.com",
+		"url": "https://github.com/flesler"
+	},
 	"dependencies": {
 		"diacritics": "^1.3.0"
 	},
@@ -23,5 +27,12 @@
 	},
 	"engines": {
 		"node": ">=8.0.0"
-	}
+	},
+	"homepage": "https://github.com/flesler/infer-gender",
+	"bugs": "https://github.com/flesler/infer-gender/issues",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/flesler/infer-gender.git"
+	},
+	"license": "SEE LICENSE IN LICENSE.md"
 }
