@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+
 // USAGE: $ cat other-female.txt | node bin/update.js female
 const fs = require('fs')
 const { extractName } = require('../index')

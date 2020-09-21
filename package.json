@@ -6,7 +6,11 @@
 		"lint": "eslint .",
 		"fix": "npm run lint -- --fix",
 		"test": "mocha",
-		"precommit": "npm run lint && npm run test"
+		"precommit": "npm run lint && npm run test",
+		"cli": "./bin/cli.js"
+	},
+	"bin": {
+		"infer-gender": "./bin/cli.js"
 	},
 	"main": "./index.js",
 	"author": {
